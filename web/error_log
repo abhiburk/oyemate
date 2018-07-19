@@ -1,0 +1,2 @@
+[13-Mar-2017 10:40:20 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/clapdustpanel/public_html/web/checkLogin.php on line 14
+[13-Mar-2017 14:20:11 UTC] PHP Fatal error:  Call to undefined function execute() in /home/clapdustpanel/public_html/web/insertData.php on line 399

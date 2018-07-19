@@ -1,0 +1,7 @@
+[13-Mar-2017 10:29:34 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'oyemate_db.hostel' doesn't exist' in /home/clapdustpanel/public_html/hostel.php:95
+Stack trace:
+#0 /home/clapdustpanel/public_html/hostel.php(95): PDOStatement->execute()
+#1 {main}
+  thrown in /home/clapdustpanel/public_html/hostel.php on line 95
+[13-Mar-2017 10:35:51 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/clapdustpanel/public_html/hostel.php on line 91
+[13-Mar-2017 10:37:20 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/clapdustpanel/public_html/hostel.php on line 91

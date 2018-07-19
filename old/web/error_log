@@ -1,0 +1,11 @@
+[05-Mar-2017 18:38:45 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/clapdustpanel/public_html/web/checkLogin.php on line 15
+[05-Mar-2017 18:44:50 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/clapdustpanel/public_html/web/checkLogin.php on line 15
+[05-Mar-2017 18:46:16 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/clapdustpanel/public_html/web/checkLogin.php on line 15
+[05-Mar-2017 18:47:44 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/clapdustpanel/public_html/web/checkLogin.php on line 15
+[05-Mar-2017 18:51:04 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/clapdustpanel/public_html/web/checkLogin.php on line 15
+[05-Mar-2017 18:56:36 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/clapdustpanel/public_html/web/checkLogin.php on line 15
+[05-Mar-2017 18:57:55 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/clapdustpanel/public_html/web/checkLogin.php on line 15
+[05-Mar-2017 19:02:45 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/clapdustpanel/public_html/web/checkLogin.php on line 15
+[06-Mar-2017 03:48:17 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/clapdustpanel/public_html/web/checkLogin.php on line 15
+[09-Mar-2017 13:12:39 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/clapdustpanel/public_html/web/checkLogin.php on line 15
+[09-Mar-2017 13:26:38 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 20480 bytes) in /home/clapdustpanel/public_html/ImageManipulator.php on line 60

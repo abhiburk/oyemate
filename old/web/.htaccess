@@ -1,0 +1,35 @@
+
+RewriteEngine On
+
+
+
+
+
+Options +FollowSymLinks
+RewriteRule collegeprofile/(.*)/ collegeprofile.php?instituteName=$1 [L]
+RewriteRule collegeprofile/(.*) collegeprofile.php?instituteName=$1	[L]
+	
+ 
+
+ RewriteCond %{REQUEST_FILENAME} !-f
+ RewriteRule ^([^\.]+)$ $1.php [NC,L]
+
+						
+
+				
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME} !-f
+   
+	RewriteRule ^event/(.*)$ event.php?webName=$1 [L]
+	RewriteRule ^user/(.*)$ user.php?userID=$1 [L]
+	RewriteRule ^coaching/(.*)$ coaching.php?ci_ID=$1 [L]
+	RewriteRule ^ad/(.*)$ ad.php [L]
+
+</IfModule>						
+				
+ RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
+
+AddType application/x-httpd-php .htm .html
